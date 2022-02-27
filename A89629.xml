@@ -1,0 +1,211 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sad and fearfull newes from Beverley. Or, the northern diurnall. Wherein is declared how a great barn of corn was set on fire, to the great dammage of Sir Iohn Hotham, and the inhabitants of the said town, and the manifold abuses that are daily offered to those that take part with the Parliament, by the cavaleers, and others that are in authoritie: namely, the Earle of Lindsey the Earl of Northampton the Earl of Newcastle, the Earl of Rivers. VVhereunto is annexed, A declaration of the Lords and Commons, concerning the particular actions of the said earles. Ordered that this be printed and published. John Brown Cler. Parl.</title>
+            <author>Mason, Abel.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89629</idno>
+            <idno type="STC">Wing M908</idno>
+            <idno type="STC">Thomason E108_8</idno>
+            <idno type="STC">ESTC R5252</idno>
+            <idno type="EEBO-CITATION">99872823</idno>
+            <idno type="PROQUEST">99872823</idno>
+            <idno type="VID">125269</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89629)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125269)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 19:E108[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sad and fearfull newes from Beverley. Or, the northern diurnall. Wherein is declared how a great barn of corn was set on fire, to the great dammage of Sir Iohn Hotham, and the inhabitants of the said town, and the manifold abuses that are daily offered to those that take part with the Parliament, by the cavaleers, and others that are in authoritie: namely, the Earle of Lindsey the Earl of Northampton the Earl of Newcastle, the Earl of Rivers. VVhereunto is annexed, A declaration of the Lords and Commons, concerning the particular actions of the said earles. Ordered that this be printed and published. John Brown Cler. Parl.</title>
+                  <author>Mason, Abel.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>July 26. London, Printed for I. Harnom,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By Abel Mason.</note>
+                  <note>Publication date from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hotham, John, d. 1645 Jan. 1.</term>
+               <term>Beverley (Humberside) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125269:1"/>
+            <pb facs="tcp:125269:1" rendition="simple:additions"/>
+            <p>SAD and FEARFULL NEWES FROM <hi>BEVERLEY.</hi>
+            </p>
+            <p>OR, The Northern <hi>Diurnall.</hi> Wherein is Declared how a great Barn of Corn was ſet on fire, to the great dammage of Sir <hi>Iohn Hotham,</hi> and the Inhabitants of the ſaid Town, and the manifold Abuſes that are daily offered to thoſe that take part with the <hi>Parliament,</hi> by the Ca<g ref="char:EOLhyphen"/>valeers, and others that are in Authoritie: NAMELY,
+<list>
+                  <item>The Earle of <hi>Lindſey</hi>
+                  </item>
+                  <item>The Earl of <hi>Northampton</hi>
+                  </item>
+                  <item>The Earl of <hi>Newcaſtle,</hi>
+                  </item>
+                  <item>The Earl of <hi>Rivers.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <hi>VVhereunto is annexed,</hi> A Declaration of the <hi>Lords</hi> and <hi>Commons,</hi> con<g ref="char:EOLhyphen"/>cerniog the particular Actions of the ſaid Earles.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Ordered that this be printed and publiſhed</p>
+                        <closer>
+                           <signed>John Brown Cler. Parl.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>July 26. LONDON, Printed for <hi>I. Harnom.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:125269:2"/>
+            <pb facs="tcp:125269:2"/>
+            <head>HORRIBLE NEWS FROM <hi>BEVERLEY.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>HAving ſo fit an occaſion to write to you, and knowing how anſwerable our horteſtive News will be to your Deſires; I have thought it neceſſary to informe you of the moſt Remarkable paſſages that have hapned from the 17. of this preſent <hi>July</hi> to the Date hereof.</p>
+            <p>On <hi>Monday</hi> His Majeſty went to ſur<g ref="char:EOLhyphen"/>vey His Forces, and to give Command that Civill Order ſhould be kept in e<g ref="char:EOLhyphen"/>very quarter, expreſſing a great deale of
+<pb facs="tcp:125269:3"/>Care of His Subjects, and indeavovring to preſerve them from any Oppreſſion, and by his Princely Demeanour, and frequent paſſing Declaration, to draw more to His Party, which is at this time very conſiderable.</p>
+            <p>On <hi>Tueſday</hi> it was generally thought that his Majeſty would have given An<g ref="char:EOLhyphen"/>ſwer to the Petition preſented by the Earl of <hi>Holland</hi> from the <hi>Parliament,</hi> but of a certainty I cannot inform you. This day the Earl of <hi>Lindſey</hi> indeavoured a Veſſell laden with Victuall and other Proviſion, comming down <hi>Humber</hi> to <hi>Hull,</hi> but by the Aſſiſtance of two ſhips lately ſent by the Earl of <hi>Warwicke,</hi> the Veſſel was ſafely conducted, and the ſaid Earl glad to ſtrike ſaile, and truſt to his heeles or elſe He had miſtaken his way and ſayled for <hi>London</hi> inſtead of <hi>Bever<g ref="char:EOLhyphen"/>ley.</hi>
+            </p>
+            <p>On <hi>Wedneſday</hi> Sir <hi>John Hotham</hi> having intelligence that the Fort lately raiſed at <hi>Paul</hi> by the Earl of <hi>Lindſey</hi> was but weakly guarded, He ſent out a party in
+<pb facs="tcp:125269:3"/>the Evening, when it grew darkiſh, to ſee if they could that means obtain it, that doing him moſt hurt: But the Earl of <hi>Lindſey</hi> having left his ſhip be<g ref="char:EOLhyphen"/>ing chaſed by the Earl of <hi>Warwickes</hi> ſhips, was ſecretly arrived; ſo that fin<g ref="char:EOLhyphen"/>ding they could not attempt it without great loſſe, they choſe rather to retreat, then at ſo dear a rate to purchaſe it.</p>
+            <p>This day likewiſe came News to <hi>Be<g ref="char:EOLhyphen"/>verley</hi> of a great skirmiſh fought at <hi>Manchiſter,</hi> between the Lord <hi>Strange</hi> and the Lieutenants for the <hi>Militia,</hi> ſent thither by the <hi>Parliament.</hi>
+            </p>
+            <p>Collonel <hi>Luasford</hi> is ſent forth with Horſe and Foot, but to what end is not yet known; but as ſome think to aſſiſt Mr. <hi>Henry Haſtings,</hi> Son to the Earle of <hi>Huntington,</hi> who hath gained a great par<g ref="char:EOLhyphen"/>ty in <hi>Leiceſterſhire,</hi> and it is feared, that they intend forcibly to ceaze upon the <hi>Magazine</hi> of that County.</p>
+            <p>The Kings Majeſty is gone in perſon to <hi>Leiceſterſhire,</hi> tis thought to put the <hi>Commiſſion of Array</hi> in execution.</p>
+            <p>
+               <pb facs="tcp:125269:4"/>
+               <label>Thurſday.</label>
+               <lb/>
+Upon <hi>Thurſday</hi> Newes came to His Majeſty, that Mr. <hi>Digby,</hi> Brother to the Lord <hi>Digby,</hi> had rayſed a troop of horſe and did intend very ſuddenly to preſent His ſervice to His Majaſty.</p>
+            <p>
+               <label>Friday.</label>
+               <lb/>
+On <hi>Friday</hi> ſeverall Cavaleers returned out of <hi>Lincolnſhire</hi> with Horſe and Am<g ref="char:EOLhyphen"/>munition, that they had forcibly taken from the Inhabitants of the ſaid Coun<g ref="char:EOLhyphen"/>ty.</p>
+            <p>But for ought it could be conceived they received no great thanks from His Majeſty; neither doth His Majeſty con<g ref="char:EOLhyphen"/>temn any other of thoſe abuſes, which are daily offered to the inhabitants of theſe parts</p>
+            <p>One thing now I will tell you, the Countrey is afraid that we ſhall have ſuch a Race of Cavaleers, that we ſhall never be free from theſe diſtractions; for
+<pb facs="tcp:125269:4"/>we have ſcarce a good Maid within ten miles of the <hi>Camp:</hi> we can ſcarce keepe our wives from being over-run.</p>
+            <p>His Majeſty in his own perſon ſetled the Array in good poſture in <hi>Lincoln<g ref="char:EOLhyphen"/>ſhire,</hi> and he is expected to go into <hi>Wil<g ref="char:EOLhyphen"/>ſhire,</hi> to ſettle the <hi>Militia;</hi> for it is Re<g ref="char:EOLhyphen"/>ported the generall County ſtands bet<g ref="char:EOLhyphen"/>ter affected to the King, then to the <hi>Par<g ref="char:EOLhyphen"/>liament,</hi> although the Earl of <hi>Pembroke</hi> hath endeavoured in his own perſon to diſpoſe of the ſame.</p>
+            <p>There had like to have bin a great combuſtion in the Army between ſeve<g ref="char:EOLhyphen"/>rall Captains; namely, Captain <hi>Atkin<g ref="char:EOLhyphen"/>ſon,</hi> Captain <hi>Ward,</hi> Colonel <hi>Lunsford,</hi> and divers Lieutenants, which indeavoured to raiſe Parties; but at his Majeſties re<g ref="char:EOLhyphen"/>turn two of them were caſheer'd, and the reſt checkt for their diſobedience.</p>
+            <p>A great miſchance hapned in <hi>Hull,</hi> a great Barn of Corn was ſet on fire, and it is feared, that it was done by ſome of the Inhabitants that ſtand not well af<g ref="char:EOLhyphen"/>fected to the <hi>Parliament.</hi>
+            </p>
+            <p>
+               <pb facs="tcp:125269:5"/>
+This is all that at this time I have to write; onely the next Opportunity you ſhall hear from me, till which time I reſt</p>
+            <closer>
+               <signed>Your Friend and Servant <hi>ABEL MASON.</hi>
+               </signed>
+               <dateline>From Beverley <date>Iuly 23.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="Parliamentary_declaration">
+            <head>The Parliaments Declaration.</head>
+            <p>THe Lords and Commons do declare, that a Garriſon of Souldiers is at New-ca<g ref="char:EOLhyphen"/>ſtle, under the Command of the Earl of New-caſtle Likewiſe Earl Rivers being put into the Commiſsion of Ariay, exercizes it with much rigour, impriſoning oll thoſo that oppoſe him.</p>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>Ordered that this be printed and publiſhed</p>
+            <closer>
+               <signed>John Brown Cler. Par.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
